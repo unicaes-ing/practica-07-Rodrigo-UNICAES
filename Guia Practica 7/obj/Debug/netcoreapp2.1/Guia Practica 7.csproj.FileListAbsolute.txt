@@ -1,0 +1,11 @@
+C:\Users\Rodrigo\source\repos\Guia Practica 7\bin\Debug\netcoreapp2.1\Guia Practica 7.deps.json
+C:\Users\Rodrigo\source\repos\Guia Practica 7\bin\Debug\netcoreapp2.1\Guia Practica 7.runtimeconfig.json
+C:\Users\Rodrigo\source\repos\Guia Practica 7\bin\Debug\netcoreapp2.1\Guia Practica 7.runtimeconfig.dev.json
+C:\Users\Rodrigo\source\repos\Guia Practica 7\bin\Debug\netcoreapp2.1\Guia Practica 7.dll
+C:\Users\Rodrigo\source\repos\Guia Practica 7\bin\Debug\netcoreapp2.1\Guia Practica 7.pdb
+C:\Users\Rodrigo\source\repos\Guia Practica 7\obj\Debug\netcoreapp2.1\Guia Practica 7.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\Guia Practica 7\obj\Debug\netcoreapp2.1\Guia Practica 7.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\Guia Practica 7\obj\Debug\netcoreapp2.1\Guia Practica 7.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\source\repos\Guia Practica 7\obj\Debug\netcoreapp2.1\Guia Practica 7.AssemblyInfo.cs
+C:\Users\Rodrigo\source\repos\Guia Practica 7\obj\Debug\netcoreapp2.1\Guia Practica 7.dll
+C:\Users\Rodrigo\source\repos\Guia Practica 7\obj\Debug\netcoreapp2.1\Guia Practica 7.pdb
